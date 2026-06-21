@@ -1,0 +1,52 @@
+
+==================================================
+Logistic Regression
+==================================================
+              precision    recall  f1-score   support
+
+    Away Win       0.44      0.43      0.43       371
+    Home Win       0.67      0.68      0.68       637
+
+    accuracy                           0.59      1008
+   macro avg       0.56      0.55      0.56      1008
+weighted avg       0.59      0.59      0.59      1008
+
+
+==================================================
+Decision Tree
+==================================================
+              precision    recall  f1-score   support
+
+    Away Win       0.41      0.58      0.48       371
+    Home Win       0.68      0.51      0.58       637
+
+    accuracy                           0.54      1008
+   macro avg       0.54      0.55      0.53      1008
+weighted avg       0.58      0.54      0.54      1008
+
+
+==================================================
+Random Forest
+==================================================
+              precision    recall  f1-score   support
+
+    Away Win       0.48      0.32      0.38       371
+    Home Win       0.67      0.80      0.73       637
+
+    accuracy                           0.62      1008
+   macro avg       0.57      0.56      0.55      1008
+weighted avg       0.60      0.62      0.60      1008
+
+
+==================================================
+XGBoost
+==================================================
+              precision    recall  f1-score   support
+
+    Away Win       0.52      0.28      0.37       371
+    Home Win       0.67      0.85      0.75       637
+
+    accuracy                           0.64      1008
+   macro avg       0.60      0.57      0.56      1008
+weighted avg       0.62      0.64      0.61      1008
+

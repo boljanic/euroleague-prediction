@@ -1,0 +1,12 @@
+{
+  "feature_cols": [
+    "hometeam_encoded",
+    "awayteam_encoded",
+    "phase_encoded",
+    "year",
+    "home_form",
+    "away_form",
+    "head_to_head_advantage"
+  ],
+  "target_col": "result"
+}

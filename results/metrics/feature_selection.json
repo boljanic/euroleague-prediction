@@ -1,0 +1,24 @@
+{
+  "all_features": {
+    "n_features": 7,
+    "features": [
+      "Home Team",
+      "Away Team",
+      "Phase",
+      "Year",
+      "Home Form",
+      "Away Form",
+      "H2H Advantage"
+    ],
+    "accuracy": 0.62
+  },
+  "top_features": {
+    "n_features": 3,
+    "features": [
+      "Home Team",
+      "Home Form",
+      "Away Form"
+    ],
+    "accuracy": 0.5972
+  }
+}
